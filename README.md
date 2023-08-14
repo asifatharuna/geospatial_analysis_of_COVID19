@@ -1,2 +1,9 @@
-# geospatial_analysis_of_COVID19
-Geospatial analysis of COVID 19 cases in London
+**Date: 2021-02-20**  
+**Authors: Asifat Haruna Olawale**  
+**email: olawaleasifat@gmail.com**  
+**Copyright © 2022 Asifat Haruna. All rights reserved**  
+
+**Geospatail Analysis of observed COVID19 cases in London**  
+
+![](./graphics/biweekly_animation.gif)
+
